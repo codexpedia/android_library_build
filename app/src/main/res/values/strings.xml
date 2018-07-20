@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Library Build</string>
+    <string name="square_result">The square of %1$d is\n%2$d</string>
+</resources>
